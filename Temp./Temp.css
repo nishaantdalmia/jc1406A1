@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+
+.banners1{
+	background-image: url(/Users/NISHAANTDALMIA/Desktop/CP1406IA/Images/vector_volleyball.jpg);
+	background-position: left;
+	background-repeat: repeat;
+	
+	height: 1cm;
+}
+
+.banners2{
+    background-image: url(/Users/NISHAANTDALMIA/Desktop/CP1406IA/Images/sand.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    height: 0.5cm;
+}
+
+.menus1{
+    background-color: #0FF;
+    padding: 5px;
+}
+.footer1{
+   
+    padding-bottom: .1cm;
+    background-color: #000;
+    color: lightgray;
+}
+
+
+.Promo1{
+    background-color: #0FF;
+    
+}
+
+.Promo2{
+    background-color: #FF6;
+    
+}
+
+.Promo3{
+    background-color:#030;
+    
+}
+
+/* CSS Document */
+

@@ -2,18 +2,13 @@
 
 
 .banners1{
-	background-image: url(/Users/NISHAANTDALMIA/Desktop/CP1406IA/Images/vector_volleyball.jpg);
-	background-position: left;
-	background-repeat: repeat;
-	
-	height: 1cm;
+	background-color: #00F;
+    padding: 5px;
 }
 
 .banners2{
-    background-image: url(/Users/NISHAANTDALMIA/Desktop/CP1406IA/Images/sand.jpg);
-    background-repeat: repeat;
-    background-position: center;
-    height: 0.5cm;
+ background-color: #00F;
+    padding: 5px;
 }
 
 .menus1{
